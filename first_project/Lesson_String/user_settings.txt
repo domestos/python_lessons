@@ -1,0 +1,1 @@
+[{"Score": 354, "awards": ["OR", "NV", "NY"], "PelayerName": "Donald Trump"}, {"Score": 354, "awards": ["OR", "NV", "LV"], "PelayerName": "valera pelenskyi"}]
